@@ -1,0 +1,19 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+.help-block {
+  color: red;
+  text-transform: capitalize;
+  position: absolute;
+  top: 70px;
+}
+.form-group {
+  position: relative;
+  margin-bottom: 55px;
+
+}
+
+.brand-logo {
+position: center;
+color: black;
+}
